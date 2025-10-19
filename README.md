@@ -1,6 +1,5 @@
-## Olá! Sou o Kenji!
+## Kenji
 
-- 💼 Gerente de Marketing da ranGO!
 - 🎓 Técnico de Informática pela FECAP
 - 📚 Estudando Análise e Desenvolvimento de Sistemas na FIAP
 - 🏆 Vencedor da FECAP Inspira Startup Informática 2024
