@@ -2,7 +2,7 @@
 
 ###
 
-<h1 data-importer="text" align="left">Hello, friend.</h1>
+<h3 data-importer="text" align="left">Hello, friend.</h3>
 
 ###
 
@@ -13,6 +13,8 @@
 <p data-importer="text" align="left">🔻Student of the 3rd semester of Systems Analysis and Development at FIAP, constantly evolving in programming languages, software engineering, IoT and artificial intelligence.<br><br>🔺Currently focusing on Spring Boot, Dart, and SQL.</p>
 
 ###
+
+<br clear="both">
 
 <h3 data-importer="text" align="center">🌂 Language and tools 🌂</h3>
 
